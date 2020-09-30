@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Solver
+comment0.text=\r\n\ This\ class\ is\ designed\ to\ make\ the\ algorithm\ easier\ to\ view\ and\ debug.\r\n\ It\ helps\ in\ understanding\ the\ components\ and\ their\ working.\ A\ small\ compact\ class\ for\ the\r\n\ entire\ algorithm\ which\ calls\ the\ required\ methods.\ \r\n
+comment1.params=
+comment1.target=void\ main()
+numComments=2

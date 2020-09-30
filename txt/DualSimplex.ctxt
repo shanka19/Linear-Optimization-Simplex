@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=DualSimplex
+comment1.params=
+comment1.target=boolean\ checkdualfeasibility()
+comment2.params=a
+comment2.target=int\ index_minimum_b(double[])
+comment3.params=
+comment3.target=void\ dual_method()
+comment4.params=
+comment4.target=void\ solve()
+numComments=5

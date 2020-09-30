@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=TwoPhase
+comment1.params=
+comment1.target=void\ input_artificial()
+comment2.params=
+comment2.target=void\ create_solnmatrix()
+comment3.params=
+comment3.target=void\ phase1_method()
+comment3.text=\ Below\ snippet\ is\ for\ phase-1\ implementation.\ Here\ we\ first\ initialise\ the\ phase-1\ \r\n\ tableau\ which\ is\ then\ followed\ by\ the\ simplex\ implementation.\ At\ the\ end\ of\ Phase-1\ \r\n\ we\ want\ to\ make\ the\ artificial\ variables\ zero.\r\n
+comment4.params=
+comment4.target=void\ convert_redundant()
+comment5.params=
+comment5.target=void\ phase2_method()
+comment6.params=
+comment6.target=void\ display_results()
+comment7.params=
+comment7.target=void\ twophase_method()
+numComments=8
